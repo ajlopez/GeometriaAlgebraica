@@ -4,6 +4,7 @@ Algunas notas personales sobre geometría algebraica.
 
 ## Temario
 
+- ¿Qué es la geometría algebraica?
 - Un problema clásico: teorema de Bezout
 - Algebra conmutativa
     - Números enteros
