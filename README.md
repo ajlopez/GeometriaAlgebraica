@@ -21,3 +21,9 @@ Algunas notas personales sobre geometría algebraica.
     - Teorema de los ceros de Hilbert
 - Variedades algebraicas
 
+## Referencias
+
+- Introduction to Algebraic Geometry, Justin R Smith: Excelente apéndice A para
+aprender sobre anillos, ideales y temas relacionados
+
+
