@@ -25,5 +25,5 @@ Algunas notas personales sobre geometría algebraica.
 
 - Introduction to Algebraic Geometry, Justin R Smith: Excelente apéndice A para
 aprender sobre anillos, ideales y temas relacionados
-
+- Commutative Algebra with a View Toward Algebraic Geometry, Eisenbud, buena panorama de base
 
